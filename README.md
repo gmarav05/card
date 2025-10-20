@@ -1,5 +1,5 @@
 # 🪪 Card
-Built with basic HTML, CSS and JavaScript.
+Built with basic HTML and CSS.
 
 
 ## Screenshot 
